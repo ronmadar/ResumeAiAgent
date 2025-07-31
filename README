@@ -1,0 +1,4 @@
+** RAG Resume AI
+pip install -r requirements.txt
+
+* streamlit run app.py
